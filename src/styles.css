@@ -1,1 +1,30 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+
+.titulo
+{
+  font-size: 20px;
+  text-align: center;
+  color : red;
+}
+
+table, th , td {
+  border: 2px solid grey;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+.class1  {
+  background: lightblue;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.class2   {
+  background: lightgreen;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+
+}

@@ -7,6 +7,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class DatosalumnoComponent implements OnInit {
 
+  nombre:string="Jorge";
+  apellidos:string="Fernandez";
+  poblacion:string="Terrassa";
+
   constructor() { }
 
   ngOnInit(): void {
